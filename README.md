@@ -39,8 +39,18 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=Tllpsm2&theme=default&hide_border=true" height="170" />
+  <img
+    src="https://streak-stats.demolab.com?user=Tllpsm2&theme=default&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p>
+  <img
+    src="https://github-readme-stats-tzun.vercel.app/api/top-langs/?username=Tllpsm2&layout=compact&hide_border=true"
+    height="165"
+  />
 </p>
