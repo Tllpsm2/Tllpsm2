@@ -48,9 +48,3 @@
   />
 </p>
 
-<p>
-  <img
-    src="https://github-readme-stats-tzun.vercel.app/api/top-langs/?username=Tllpsm2&layout=compact&hide_border=true"
-    height="165"
-  />
-</p>
